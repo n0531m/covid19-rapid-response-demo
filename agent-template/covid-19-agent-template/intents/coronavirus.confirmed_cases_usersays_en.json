@@ -169,7 +169,17 @@
     "id": "f2ec9f2a-2708-4a56-81ad-09a6c62460ab",
     "data": [
       {
-        "text": "How many cases of covid-19 are there?",
+        "text": "How many cases of ",
+        "userDefined": false
+      },
+      {
+        "text": "covid19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " are there?",
         "userDefined": false
       }
     ],
@@ -221,7 +231,17 @@
     "id": "ab5d907c-ba8b-4466-a258-fec52cf41a70",
     "data": [
       {
-        "text": "How is covid situation in ",
+        "text": "How is ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " situation in ",
         "userDefined": false
       },
       {
@@ -239,7 +259,17 @@
     "id": "e9b1189b-5e22-4795-96ae-0b8287b28118",
     "data": [
       {
-        "text": "How many cases of covid-19 or Animal Planet, Georgia?",
+        "text": "How many cases of ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " or Animal Planet, Georgia?",
         "userDefined": false
       }
     ],
@@ -311,13 +341,13 @@
         "userDefined": false
       },
       {
-        "text": "Corona",
+        "text": "Corona virus",
         "alias": "covid-19",
         "meta": "@covid-19",
         "userDefined": false
       },
       {
-        "text": " virus in the ",
+        "text": " in the ",
         "userDefined": false
       },
       {
@@ -965,7 +995,17 @@
     "id": "adad82e9-b06b-45f5-825f-24974f6b49bb",
     "data": [
       {
-        "text": "how many people in the state of new york have the virus?",
+        "text": "how many people in the state of new york have the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
         "userDefined": false
       }
     ],
@@ -1011,7 +1051,13 @@
     "id": "41d58655-72d6-48ef-a7df-37ae099a7a2c",
     "data": [
       {
-        "text": "Which area has the highest covid",
+        "text": "Which area has the highest ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid-19",
+        "meta": "@covid-19",
         "userDefined": false
       }
     ],
@@ -1023,13 +1069,13 @@
     "id": "b75569d8-05a4-4bb3-b5d6-1a3a1f6719d5",
     "data": [
       {
-        "text": "Which area has covid",
+        "text": "Which area has ",
         "userDefined": false
       },
       {
-        "text": "19",
-        "alias": "number",
-        "meta": "@sys.number",
+        "text": "covid 19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
         "userDefined": false
       },
       {
@@ -1211,7 +1257,17 @@
     "id": "fd335033-00dc-4900-95b6-bdd0aac2b964",
     "data": [
       {
-        "text": "What\u0027s the estimated number of people infected with the covid-19?",
+        "text": "What\u0027s the estimated number of people infected with the ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
         "userDefined": false
       }
     ],
@@ -1223,7 +1279,17 @@
     "id": "1cef1bfa-f623-4c75-8e93-a68bc7920ebf",
     "data": [
       {
-        "text": "how many people in Indiana have been confirmed?",
+        "text": "how many people in ",
+        "userDefined": false
+      },
+      {
+        "text": "Indiana",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " have been confirmed?",
         "userDefined": false
       }
     ],

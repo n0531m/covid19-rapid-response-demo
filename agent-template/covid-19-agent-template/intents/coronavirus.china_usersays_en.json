@@ -67,7 +67,16 @@
     "id": "a8b8b686-deaf-4a6c-a52b-8a109492e034",
     "data": [
       {
-        "text": "what is the wuhan disease?",
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "wuhan disease",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
         "userDefined": false
       }
     ],
